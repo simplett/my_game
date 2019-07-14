@@ -1,0 +1,86 @@
+×{padding: 0px;
+margin: 0px}
+.box
+{
+    width: 1000px;
+    height:700px;
+    min-width: 400px;
+    position: absolute;
+    left:15%;
+    background: #666666;
+    padding: 15px 0px 0px 0px;
+}
+.box input
+{
+	width: 80%;
+	background:rgba(203,203,203,1.00);
+		
+}
+.btn
+{
+	{
+		display:inline-block;
+	width: 20%;
+	background:rgba(48,98,232,0.6);
+		
+}
+}
+.a_plan,.b_plan
+{
+    width: 40%;
+    height: 650px;
+    background: #453694;
+    position: absolute;
+	word-wrap: break-word;
+}
+.a_plan
+{
+    left: 5%;
+    background:#999999 url(../img/a.jpg) no-repeat scroll;
+    background-size: 100% 100%;
+}
+.b_plan
+{
+    left: 55%;
+    background:#999999 url(../img/b.jpg) no-repeat scroll;
+    background-size: 100% 100%;
+}
+.people
+{
+    width: 100%;
+    text-align: center;
+    margin: 0px;
+    height:5%;
+    
+}
+.msg
+{
+    overflow-y: scroll;
+    height: 90%;
+}
+.send
+{
+    bottom: 0px;
+    height:5%;
+    background: #453694;
+}
+.msg-right
+{
+	width: 60%;
+	border-radius: 5px;
+	background: rgba(157,215,220,0.6);
+	float: right;
+	margin: 5px 5px 5px 0px;
+}
+.msg-left
+{
+	width: 60%;
+	border-radius: 5px;
+	background:rgba(187,213,39,0.6);
+	float: left;
+	margin: 5px 0px 5px 5px;
+}
+img
+{
+	width: 100%;
+}
